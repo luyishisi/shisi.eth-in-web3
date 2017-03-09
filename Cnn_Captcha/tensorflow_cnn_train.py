@@ -7,7 +7,7 @@ from gen_captcha import ALPHABET
 import numpy as np
 import tensorflow as tf
 
-text, image = gen_captcha_text_and_image()
+text, image = gen_captcha_text_and_image() #先生成验证码和文字测试模块是否完全
 print("验证码图像channel:", image.shape)  # (60, 160, 3)
 # 图像大小
 IMAGE_HEIGHT = 60
@@ -65,7 +65,7 @@ def vec2text(vec):
 		char_idx = c % CHAR_SET_LEN
 		if char_idx < 10:
 			char_code = char_idx + ord('0')
-		elif char_idx <36:
+		elif char_idx < 36:
 			char_code = char_idx - 10 + ord('A')
 		elif char_idx < 62:
 			char_code = char_idx-  36 + ord('a')
@@ -93,28 +93,31 @@ def get_next_batch(batch_size=128):
 
 	# 有时生成图像大小不是(60, 160, 3)
 	def wrap_gen_captcha_text_and_image():
+		''' 获取一张图，判断其是否符合（60，160，3）的规格'''
 		while True:
 			text, image = gen_captcha_text_and_image()
-			if image.shape == (60, 160, 3):
+			if image.shape == (60, 160, 3):#此部分应该与开头部分图片宽高吻合
 				return text, image
 
 	for i in range(batch_size):
 		text, image = wrap_gen_captcha_text_and_image()
 		image = convert2gray(image)
 
+		# 将图片数组一维化 同时将文本也对应在两个二维组的同一行
 		batch_x[i,:] = image.flatten() / 255 # (image.flatten()-128)/128  mean为0
 		batch_y[i,:] = text2vec(text)
-
+	# 返回该训练批次
 	return batch_x, batch_y
 
 ####################################################################
-
+# 申请占位符 按照图片
 X = tf.placeholder(tf.float32, [None, IMAGE_HEIGHT*IMAGE_WIDTH])
 Y = tf.placeholder(tf.float32, [None, MAX_CAPTCHA*CHAR_SET_LEN])
 keep_prob = tf.placeholder(tf.float32) # dropout
 
 # 定义CNN
 def crack_captcha_cnn(w_alpha=0.01, b_alpha=0.1):
+	# 将占位符 转换为 按照图片给的新样式
 	x = tf.reshape(X, shape=[-1, IMAGE_HEIGHT, IMAGE_WIDTH, 1])
 
 	#w_c1_alpha = np.sqrt(2.0/(IMAGE_HEIGHT*IMAGE_WIDTH)) #
@@ -124,7 +127,7 @@ def crack_captcha_cnn(w_alpha=0.01, b_alpha=0.1):
 	#out_alpha = np.sqrt(2.0/1024)
 
 	# 3 conv layer
-	w_c1 = tf.Variable(w_alpha*tf.random_normal([3, 3, 1, 32]))
+	w_c1 = tf.Variable(w_alpha*tf.random_normal([3, 3, 1, 32])) # 从正太分布输出随机值
 	b_c1 = tf.Variable(b_alpha*tf.random_normal([32]))
 	conv1 = tf.nn.relu(tf.nn.bias_add(tf.nn.conv2d(x, w_c1, strides=[1, 1, 1, 1], padding='SAME'), b_c1))
 	conv1 = tf.nn.max_pool(conv1, ksize=[1, 2, 2, 1], strides=[1, 2, 2, 1], padding='SAME')
@@ -158,7 +161,6 @@ def crack_captcha_cnn(w_alpha=0.01, b_alpha=0.1):
 # 训练
 def train_crack_captcha_cnn():
 	output = crack_captcha_cnn()
-	# loss
 	#loss = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(output, Y))
 	loss = tf.reduce_mean(tf.nn.sigmoid_cross_entropy_with_logits(logits=output, labels=Y))
         # 最后一层用来分类的softmax和sigmoid有什么不同？
