@@ -1,4 +1,16 @@
 
+本项目最初学习于：
+
+熊猫的博客：http://blog.topspeedsnail.com/archives/10542
+
+参考：https://github.com/ryankiros/neural-storyteller（根据图片生成故事）
+
+TensorFlow练习3:http://blog.topspeedsnail.com/archives/10443
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+本帖代码移植自char-rnn：https://github.com/karpathy/char-rnn
+
 使用rnn进行唐诗学习
 然后main读取模型，生成新的唐诗
 
@@ -6,3 +18,16 @@
 
 poetry.txt
 是2w+的唐诗
+
+<如何运行>
+先运行python train.py
+在持续运行的过程中，每7个batch计算会生成一个模型存于本文件中
+待本机出现多个poetry.module-21 poetry.module-21.meta 则启动测试
+python main.py
+项目会返回使用当前模型计算的诗词：
+
+一处四中草牗，人为闎经灁忁。索直与川泉，榏马一寄日。
+
+只唍见痜下，宫今几昩过。万香汹中金，朝家共鸾山。
+
+虽然不怎么通顺不过还勉强能看。
