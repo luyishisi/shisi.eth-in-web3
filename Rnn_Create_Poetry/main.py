@@ -1,3 +1,4 @@
+#coding:utf-8
 import collections
 import numpy as np
 import tensorflow as tf
@@ -117,7 +118,12 @@ def gen_poetry():
 		sess.run(tf.initialize_all_variables())
 
 		saver = tf.train.Saver(tf.all_variables())
-		saver.restore(sess, 'poetry.module-49')
+		#saver.restore(sess, 'poetry.module-49')
+		#saver.restore(sess, 'poetry.module-49')
+
+		module_file = tf.train.latest_checkpoint('.')
+		#print(module_file)
+		saver.restore(sess, module_file)
 
 		state_ = sess.run(cell.zero_state(1, tf.float32))
 
