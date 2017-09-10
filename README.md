@@ -24,3 +24,6 @@
 本项目是使用tensorflow的Object Detection API，进行目标检测。
 
 完成的是数据预处理脚本，如何用自己的数据生成可以训练的record文件。
+
+目标检测的项目实践：
+https://www.urlteam.org/2017/09/%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B%E7%AC%94%E8%AE%B0%E4%BA%8C%EF%BC%9Atensorflow%E5%B0%8F%E7%99%BD%E5%AE%9E%E8%B7%B5/
