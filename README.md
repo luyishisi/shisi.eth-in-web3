@@ -1,1 +1,2 @@
-
+1.原文：[一文讲清-NFT市场新秀SudoSwap的AMM机制-创新挑战与局限](http://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247483943&idx=1&sn=fe2caeb811f3aa5adfe9dc5a3a6d3367&chksm=e83aa5fddf4d2ceb6dd5c978aa209fd36f4ac2917718aaa094016292f9ec038b2c733547936b&scene=21#wechat_redirect)<br>
+2.原文：[抓完X2Y2十万NFT订单，分析版税可以不收后多少用户真这么做了？](https://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247483957&idx=1&sn=ab8e4bfe0068fc19dccbb8b00d358541&chksm=e83aa5efdf4d2cf9263463ea18b4090a25843e0ad84a85bc5594c316045b4d884e526317cf9a&mpshare=1&scene=23&srcid=0913wGBPvIgv3xtOfDaFqGum&sharer_sharetime=1663064689121&sharer_shareid=e17eae1866b7be3ba538a83444acd9ad#rd)
