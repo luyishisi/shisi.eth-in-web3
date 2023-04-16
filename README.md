@@ -21,4 +21,5 @@
 21.原文：[解读Nostr：抗审查的中心化社交协议 ](https://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247484105&idx=1&sn=bd4c2264062770836321ef2b8faad151&chksm=e83aa513df4d2c05d6b768d3d4498645eca1768c29f0e478dfe6e89acff8beb35e75563d24a2&mpshare=1&scene=23&srcid=0205ptLiyIZjaHIk1HFZfGk3&sharer_sharetime=1675644076477&sharer_shareid=e17eae1866b7be3ba538a83444acd9ad#rd)<br>
 22.原文：[解读最新Final的ERC-6147：极简的半强制性NFT产权分离标准](https://mp.weixin.qq.com/s/dbOqW0UdWgdPxwTK4TMowQ)<br>
 23.原文：[以太坊账号抽象ERC4337的过审方案解读(上） ](https://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247484135&idx=1&sn=b6c098f0e3218f61459604ecf9b17ec3&chksm=e83aa53ddf4d2c2b41c9cdba36c4341b29db78951c35760dfa3e42652152a1cf62bfc6769a6f&mpshare=1&scene=23&srcid=0316xM1cpQGyhE1cDrRmAcGQ&sharer_sharetime=1678947803212&sharer_shareid=e17eae1866b7be3ba538a83444acd9ad#rd)<br>
-24.原文：[体验Web3.Unity并回顾GameFi探索之路](https://mp.weixin.qq.com/s/oM4JPJ65zrkM69nSwyT7oQ)
+24.原文：[体验Web3.Unity并回顾GameFi探索之路](https://mp.weixin.qq.com/s/oM4JPJ65zrkM69nSwyT7oQ)<br>
+25.原文：[跨链赛道研报：LayerZero全链互操作协议凭什么估值30亿美金(上）](https://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247484151&idx=1&sn=345fb4a3ae6efbe52606fe2af4b85a3e&chksm=e83aa52ddf4d2c3bd84d1ddfefdfc3a1a06a8274dbd28f43cea205202364acd2a15e63231edc&mpshare=1&scene=23&srcid=0415ZXUTHPdj4ZuzmMtq7Ijp&sharer_sharetime=1681553446690&sharer_shareid=e17eae1866b7be3ba538a83444acd9ad#rd)
