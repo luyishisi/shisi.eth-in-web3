@@ -27,4 +27,5 @@
 27.原文：[用一个小时讲清楚账号抽象这件事](https://mp.weixin.qq.com/s/GD2T5GGW2Ar13ISsEGuADA)<br>
 28.原文：[深入EVM-合约分类这件小事背后的风险 ](https://mp.weixin.qq.com/s/hUkTBZ64gUo7i_j9s05QCg)<br>
 29.原文：[NFT即钱包的ERC-6551 真有那么神奇吗？](https://mp.weixin.qq.com/s/Lh9aP1_EUpVNnNQL-P7REQ)<br>
-30.原文：[UniswapX研报(上)：总结V1-3发展链路，解读下一代 DEX的原理创新与挑战](https://mp.weixin.qq.com/s/yQ_RwMW6-TkO45s0KER15g)
+30.原文：[UniswapX研报(上)：总结V1-3发展链路，解读下一代 DEX的原理创新与挑战](https://mp.weixin.qq.com/s/yQ_RwMW6-TkO45s0KER15g)<br>
+31.原文：[从UniSwapX和AA出发冷静看待意图为中心的落地挑战](https://mp.weixin.qq.com/s/f1tSnm3tXAbkZxIeZrvawA)
