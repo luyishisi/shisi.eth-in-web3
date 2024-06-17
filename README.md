@@ -31,4 +31,5 @@
 31.原文：[从UniSwapX和AA出发冷静看待意图为中心的落地挑战](https://mp.weixin.qq.com/s/f1tSnm3tXAbkZxIeZrvawA)<br>
 32.原文：[以太坊合并一年后的MEV格局](https://mp.weixin.qq.com/s/IepFvVpIxLpkXV5qgF68Rw)<br>
 33.原文：[BTC减半在即，解读Runes协议的底层设计机制与局限](https://mp.weixin.qq.com/s/EN8ZdiomQVUQ4WBRZ4GqKA)<br>
-34.原文：[什么是BTC上最好的资产代打模型？](https://mp.weixin.qq.com/s/E8F26xVg48X10yM_iGIZBA)
+34.原文：[什么是BTC上最好的资产代打模型？](https://mp.weixin.qq.com/s/E8F26xVg48X10yM_iGIZBA)<br>
+35.原文：[深度解读API3， 释放OVM的预言机赛道破圈者](https://mp.weixin.qq.com/s/-GgNqBKUZZdz-SwJDjQHWw)
