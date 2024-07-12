@@ -32,4 +32,7 @@
 32.原文：[以太坊合并一年后的MEV格局](https://mp.weixin.qq.com/s/IepFvVpIxLpkXV5qgF68Rw)<br>
 33.原文：[BTC减半在即，解读Runes协议的底层设计机制与局限](https://mp.weixin.qq.com/s/EN8ZdiomQVUQ4WBRZ4GqKA)<br>
 34.原文：[什么是BTC上最好的资产代打模型？](https://mp.weixin.qq.com/s/E8F26xVg48X10yM_iGIZBA)<br>
-35.原文：[深度解读API3， 释放OVM的预言机赛道破圈者](https://mp.weixin.qq.com/s/-GgNqBKUZZdz-SwJDjQHWw)
+35.原文：[深度解读API3， 释放OVM的预言机赛道破圈者](https://mp.weixin.qq.com/s/-GgNqBKUZZdz-SwJDjQHWw)<br>
+36.原文：[从PStake解读BTCFI的窘境与未来](https://mp.weixin.qq.com/s/QBik90iPvSGcwWGQEpT91w)<br>
+37.原文：[从ArtexSwap看Dex的另一种架构](https://mp.weixin.qq.com/s/T-KotJ3ys7uDEgWEjRUUjg)<br>
+38.原文：[深入解读Privasea，人脸数据铸造NFT还能这样玩儿？](https://mp.weixin.qq.com/s/7mBXAGj3L8FAjZjjUERZvg)<br>
