@@ -36,3 +36,4 @@
 36.原文：[从PStake解读BTCFI的窘境与未来](https://mp.weixin.qq.com/s/QBik90iPvSGcwWGQEpT91w)<br>
 37.原文：[从ArtexSwap看Dex的另一种架构](https://mp.weixin.qq.com/s/T-KotJ3ys7uDEgWEjRUUjg)<br>
 38.原文：[深入解读Privasea，人脸数据铸造NFT还能这样玩儿？](https://mp.weixin.qq.com/s/7mBXAGj3L8FAjZjjUERZvg)<br>
+39.原文：[注意力经济下的Layer3：2120万融资如何助推全链身份变革](https://mp.weixin.qq.com/s/5tCsduMq6Ig4-leKproojg)<br>
