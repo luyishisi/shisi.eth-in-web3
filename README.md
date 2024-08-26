@@ -37,4 +37,5 @@
 37.原文：[从ArtexSwap看Dex的另一种架构](https://mp.weixin.qq.com/s/T-KotJ3ys7uDEgWEjRUUjg)<br>
 38.原文：[深入解读Privasea，人脸数据铸造NFT还能这样玩儿？](https://mp.weixin.qq.com/s/7mBXAGj3L8FAjZjjUERZvg)<br>
 39.原文：[注意力经济下的Layer3：2120万融资如何助推全链身份变革](https://mp.weixin.qq.com/s/5tCsduMq6Ig4-leKproojg)<br>
-40.原文：[首个获美 ETF 许可机构千万融资的 BTC L2 ，盘盘 Bitlayer 的技术架构](https://mp.weixin.qq.com/s/JeQJXOod5BLqrAGP2Z5OmA)
+40.原文：[首个获美 ETF 许可机构千万融资的 BTC L2 ，盘盘 Bitlayer 的技术架构](https://mp.weixin.qq.com/s/JeQJXOod5BLqrAGP2Z5OmA)<br>
+41.原文：[从4337到7702：深入解读以太坊账号抽象赛道的过去与未来](https://mp.weixin.qq.com/s/WjpPNKEVlxlCSz1WyHH4tw)
