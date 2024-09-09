@@ -39,4 +39,4 @@
 39.原文：[注意力经济下的Layer3：2120万融资如何助推全链身份变革](https://mp.weixin.qq.com/s/5tCsduMq6Ig4-leKproojg)<br>
 40.原文：[首个获美 ETF 许可机构千万融资的 BTC L2 ，盘盘 Bitlayer 的技术架构](https://mp.weixin.qq.com/s/JeQJXOod5BLqrAGP2Z5OmA)<br>
 41.原文：[从4337到7702：深入解读以太坊账号抽象赛道的过去与未来](https://mp.weixin.qq.com/s/WjpPNKEVlxlCSz1WyHH4tw).<br>
-42.原文：[42. 从Safepal Ton Fest 发掘下一代Ton游戏](https://mp.weixin.qq.com/s/_ZM885rO8soDqO1RR8khKg)
+42.原文：[从Safepal Ton Fest 发掘下一代Ton游戏](https://mp.weixin.qq.com/s/_ZM885rO8soDqO1RR8khKg)
