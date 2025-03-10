@@ -41,4 +41,5 @@
 41.原文：[从4337到7702：深入解读以太坊账号抽象赛道的过去与未来](https://mp.weixin.qq.com/s/WjpPNKEVlxlCSz1WyHH4tw).<br>
 42.原文：[从Safepal Ton Fest 发掘下一代Ton游戏](https://mp.weixin.qq.com/s/_ZM885rO8soDqO1RR8khKg)<br>
 43.原文：[深度揭秘：是谁扼杀了Telegram小游戏的生机？](https://mp.weixin.qq.com/s/g_Go12lXsnfe-bstRg1mNQ)<br>
-44.原文：[【深度解读】今年最值得期待的以太坊布拉格升级](https://mp.weixin.qq.com/s/vJMOr0I0a2_FtWrdKwdDXA)
+44.原文：[【深度解读】今年最值得期待的以太坊布拉格升级](https://mp.weixin.qq.com/s/vJMOr0I0a2_FtWrdKwdDXA)<br>
+45.原文：[超级中介还是商业奇才？ 再看跨链桥龙头 LayerZero从V1到V2后的这一年](https://mp.weixin.qq.com/s/XrkzAETC-DctDEiVaqN_kA)
