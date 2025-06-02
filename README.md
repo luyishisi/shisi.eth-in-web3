@@ -45,4 +45,5 @@
 45.原文：[超级中介还是商业奇才？ 再看跨链桥龙头 LayerZero从V1到V2后的这一年](https://mp.weixin.qq.com/s/XrkzAETC-DctDEiVaqN_kA)<br>
 46.原文：[万字研报：Solana上MEV的格局演进与是非功过](https://mp.weixin.qq.com/s/YWuwxZUE-O0TEw7ej3FIrw)<br>
 47.原文：[在香港嘉年华回望这三年：狂热、祛魅与穿越](https://mp.weixin.qq.com/s/8dmoSYE37mQJShxYndfiPg)<br>
-48.原文：[OKX研究院 | 账户抽象10年演进终局之战，透过EIP-7702看过去与未来](https://mp.weixin.qq.com/s/zahI4PUuWQBdCXq0doByMw)
+48.原文：[OKX研究院 | 账户抽象10年演进终局之战，透过EIP-7702看过去与未来](https://mp.weixin.qq.com/s/zahI4PUuWQBdCXq0doByMw)<br>
+49.原文:[黑客偷了钱，所以Sui 就能抢吗？](https://mp.weixin.qq.com/s/fIqXzsWvW3fOVXRKtv6TTg)
