@@ -46,4 +46,6 @@
 46.原文：[万字研报：Solana上MEV的格局演进与是非功过](https://mp.weixin.qq.com/s/YWuwxZUE-O0TEw7ej3FIrw)<br>
 47.原文：[在香港嘉年华回望这三年：狂热、祛魅与穿越](https://mp.weixin.qq.com/s/8dmoSYE37mQJShxYndfiPg)<br>
 48.原文：[OKX研究院 | 账户抽象10年演进终局之战，透过EIP-7702看过去与未来](https://mp.weixin.qq.com/s/zahI4PUuWQBdCXq0doByMw)<br>
-49.原文:[黑客偷了钱，所以Sui 就能抢吗？](https://mp.weixin.qq.com/s/fIqXzsWvW3fOVXRKtv6TTg)
+49.原文:[黑客偷了钱，所以Sui 就能抢吗？](https://mp.weixin.qq.com/s/fIqXzsWvW3fOVXRKtv6TTg)<br>
+50.原文：[OKX研究院 | 以太坊创世十年来，生死存亡的重大抉择](https://mp.weixin.qq.com/s?__biz=MzIyMTQ5MTg5Mw==&mid=2247484560&idx=1&sn=c6d83072442238da6de2919664a569cd&scene=21#wechat_redirect)<br>
+51.原文：[Web3风向标 01 | 解读 Jito BAM、BRC2.0、EIP-7999](https://mp.weixin.qq.com/s/eOtJqXcL1orW_wlpYLY1bg)
