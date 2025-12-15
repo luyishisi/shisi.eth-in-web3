@@ -51,4 +51,5 @@
 51.原文：[Web3风向标 01 | 解读 Jito BAM、BRC2.0、EIP-7999](https://mp.weixin.qq.com/s/eOtJqXcL1orW_wlpYLY1bg)<br>
 52.原文：[深入聊聊 Hyperliquid 的成功之道与隐忧](https://mp.weixin.qq.com/s/Fcco0dBo9YDLUVQlPYIGPw)<br>
 53.原文：[支付革命还是叙事泡沫？X402协议的技术原理与破局困境](https://mp.weixin.qq.com/s/kYgmDqbINWZql30iGsk5vg)<br>
-54.原文：[【深度解读】 Uniswap统一化提案与CCA协议的价值](https://mp.weixin.qq.com/s/jzOWuVYQM5JCW3iHCbUqOg)
+54.原文：[【深度解读】 Uniswap统一化提案与CCA协议的价值](https://mp.weixin.qq.com/s/jzOWuVYQM5JCW3iHCbUqOg)<br>
+55.原文：[2025年的区块链钱包暗战，到底在卷什么？](https://mp.weixin.qq.com/s/TlBaam8GB1LDgYbyB5qsmg)
