@@ -52,4 +52,5 @@
 52.原文：[深入聊聊 Hyperliquid 的成功之道与隐忧](https://mp.weixin.qq.com/s/Fcco0dBo9YDLUVQlPYIGPw)<br>
 53.原文：[支付革命还是叙事泡沫？X402协议的技术原理与破局困境](https://mp.weixin.qq.com/s/kYgmDqbINWZql30iGsk5vg)<br>
 54.原文：[【深度解读】 Uniswap统一化提案与CCA协议的价值](https://mp.weixin.qq.com/s/jzOWuVYQM5JCW3iHCbUqOg)<br>
-55.原文：[2025年的区块链钱包暗战，到底在卷什么？](https://mp.weixin.qq.com/s/TlBaam8GB1LDgYbyB5qsmg)
+55.原文：[2025年的区块链钱包暗战，到底在卷什么？](https://mp.weixin.qq.com/s/TlBaam8GB1LDgYbyB5qsmg)<br>
+56.原文：[钱包赛道暗战2: 争相接入Hyperliquid是个好生意吗？](https://mp.weixin.qq.com/s/vokJbkduf5rpXf3eAubjkg)
